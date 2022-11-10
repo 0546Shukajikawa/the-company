@@ -40,7 +40,8 @@
                     </form>
 
                     <div class="text-center mt-3">
-                        <a href="register.php" class="small">Create Account</a>
+                        <p class="text-center small mt-3"><a href="register.php" class="small">Create Account</a></p>
+                        <p class="text-center small mt-3"><a href="register.php" class="small">Create Account2</a></p>
                     </div>
                 </div>
             </div>
